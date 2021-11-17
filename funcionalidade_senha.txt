@@ -1,2 +1,3 @@
 criando uma funcionalidade para senha
 colocando uma cor
+consertado alguma coisa da cor
